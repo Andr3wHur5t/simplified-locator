@@ -1,0 +1,34 @@
+{
+  "name": "simplified-locator",
+  "version": "1.0.0",
+  "description": "A searchable location string with with varying resolution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spottr/simplified-locator.git"
+  },
+  "keywords": [
+    "Location",
+    "GEO",
+    "String",
+    "Quick",
+    "Search",
+    "Lat",
+    "Long",
+    "Database"
+  ],
+  "author": "Andr3wHur5t",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Spottr/simplified-locator/issues"
+  },
+  "homepage": "https://github.com/Spottr/simplified-locator#readme",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "progress": "^1.1.8",
+    "should": "^11.1.1"
+  }
+}
