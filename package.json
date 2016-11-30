@@ -1,6 +1,6 @@
 {
   "name": "simplified-locator",
-  "version": "1.0.0",
+  "version": "0.0.8",
   "description": "A searchable location string with with varying resolution.",
   "main": "index.js",
   "scripts": {
